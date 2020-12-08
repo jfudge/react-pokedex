@@ -1,0 +1,6 @@
+.poke-card{max-width:800px;margin:0 auto;padding:16px;margin-top:50px}
+.animate{display:block;-webkit-animation:pulse 2s infinite;animation:pulse 2s infinite}
+.btn{margin-right:10px!important;margin-top:10px!important}
+.title span{text-transform:uppercase;font-weight:bold;color:#3f51b5}
+.container{max-width: 800px !important; margin: 0 auto; padding-top: 20px;}
+.grid{margin: 0 auto;}
